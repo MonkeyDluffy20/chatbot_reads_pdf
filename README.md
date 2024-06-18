@@ -54,14 +54,10 @@ This repository contains a Streamlit application that allows users to upload PDF
     streamlit run app.py
     ```
 
-2. Open your browser and go to `http://localhost:8501`.
+2. Open your browser and go to `http://localhost:`.
 
 3. Upload PDF files, ask questions, and get answers!
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
